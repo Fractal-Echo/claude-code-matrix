@@ -641,6 +641,8 @@ CI also enforces a ban on `# type: ignore` / `# ty: ignore` suppressions; `scrip
 - Extend OpenAI Responses conversion in `core/openai_responses/` when Codex adds new request or stream shapes.
 - Register provider metadata in `config.provider_catalog` and factory wiring in `providers.registry`.
 - Add messaging platforms by wiring runtime, outbound, and inbound-normalizer ports in `messaging/platforms/`.
+- See [Agentic Upstream Goodies](docs/AGENTIC_UPSTREAM_GOODIES.md) for the
+  Reversa-Matrix upstream research map and import boundaries.
 
 ## Contributing
 
