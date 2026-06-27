@@ -9,6 +9,10 @@ Detailed pinned evidence lives in Reversa-Matrix:
 - `docs/upstreams/claude-code-matrix/source-sync.json`
 - `docs/upstreams/claude-code-matrix/TRAINING_PASS_2026-06-26.md`
 
+This repo also keeps metadata-only copies of the Reversa study under
+`docs/upstreams/reversa-matrix/` so release/review work can inspect provenance,
+scan counts, labels, and checksums without vendoring upstream source trees.
+
 ## Import Policy
 
 | Source | Policy | Useful Patterns |
@@ -50,3 +54,9 @@ routing, memory/context injection, subagent orchestration, worktree isolation,
 MCP/plugin surfaces, attribution requirements, and proprietary-source import
 risk.
 
+Latest refined scan of this repo:
+
+- Findings: `16347`
+- Contradictions: `0`
+- Patch candidates: `1`
+- Remaining candidate: the intentional migration TODO in `cli/entrypoints.py`

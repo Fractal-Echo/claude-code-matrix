@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Fractal-Echo__claude-code-matrix",
+    "path": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix",
+    "commit": "450f1de204683dfd7f436432aade1d4f3070cefd",
+    "out": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/reversa/Fractal-Echo__claude-code-matrix_refined",
+    "findings": 16347,
+    "contradictions": 0,
+    "patch_candidates": 1,
+    "highest_severity": "HIGH",
+    "ignore_policy": {
+      "honor_gitignore": true,
+      "source": "git_exclude_standard",
+      "ignored_files": 0,
+      "ignored_directories": 0
+    }
+  },
+  {
+    "name": "ChinaSiro__claude-code-sourcemap",
+    "path": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/repos/ChinaSiro__claude-code-sourcemap",
+    "commit": "a8a678cb6244e6770e1e421767ff0987a1d95549",
+    "out": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/reversa/ChinaSiro__claude-code-sourcemap_refined",
+    "findings": 24346,
+    "contradictions": 24,
+    "patch_candidates": 86,
+    "highest_severity": "HIGH",
+    "ignore_policy": {
+      "honor_gitignore": true,
+      "source": "git_exclude_standard",
+      "ignored_files": 0,
+      "ignored_directories": 0
+    }
+  },
+  {
+    "name": "ComposioHQ__awesome-claude-skills",
+    "path": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/repos/ComposioHQ__awesome-claude-skills",
+    "commit": "92568c1edaff1bde5371154f036d959346c145a8",
+    "out": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/reversa/ComposioHQ__awesome-claude-skills_refined",
+    "findings": 14457,
+    "contradictions": 7,
+    "patch_candidates": 9,
+    "highest_severity": "HIGH",
+    "ignore_policy": {
+      "honor_gitignore": true,
+      "source": "git_exclude_standard",
+      "ignored_files": 0,
+      "ignored_directories": 0
+    }
+  },
+  {
+    "name": "anthropics__claude-code",
+    "path": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/repos/anthropics__claude-code",
+    "commit": "01f1617f14452ac78bf319cef2236d87c0fe05cb",
+    "out": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/reversa/anthropics__claude-code_refined",
+    "findings": 6089,
+    "contradictions": 23,
+    "patch_candidates": 31,
+    "highest_severity": "HIGH",
+    "ignore_policy": {
+      "honor_gitignore": true,
+      "source": "git_exclude_standard",
+      "ignored_files": 0,
+      "ignored_directories": 0
+    }
+  },
+  {
+    "name": "anthropics__claude-cookbooks",
+    "path": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/repos/anthropics__claude-cookbooks",
+    "commit": "34022c55c1fde7056280e01b84f562cb92575cb5",
+    "out": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/reversa/anthropics__claude-cookbooks_refined",
+    "findings": 5699,
+    "contradictions": 28,
+    "patch_candidates": 37,
+    "highest_severity": "HIGH",
+    "ignore_policy": {
+      "honor_gitignore": true,
+      "source": "git_exclude_standard",
+      "ignored_files": 0,
+      "ignored_directories": 0
+    }
+  },
+  {
+    "name": "claude-code-best__claude-code",
+    "path": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/repos/claude-code-best__claude-code",
+    "commit": "8246ffa3929d90231cc3059e094c82755169373e",
+    "out": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/reversa/claude-code-best__claude-code_refined",
+    "findings": 32651,
+    "contradictions": 80,
+    "patch_candidates": 154,
+    "highest_severity": "HIGH",
+    "ignore_policy": {
+      "honor_gitignore": true,
+      "source": "git_exclude_standard",
+      "ignored_files": 0,
+      "ignored_directories": 0
+    }
+  },
+  {
+    "name": "luongnv89__claude-howto",
+    "path": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/repos/luongnv89__claude-howto",
+    "commit": "6b9ce6463f96d5556a0f3c92aaaf80123ec42100",
+    "out": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/reversa/luongnv89__claude-howto_refined",
+    "findings": 13397,
+    "contradictions": 30,
+    "patch_candidates": 52,
+    "highest_severity": "HIGH",
+    "ignore_policy": {
+      "honor_gitignore": true,
+      "source": "git_exclude_standard",
+      "ignored_files": 0,
+      "ignored_directories": 0
+    }
+  },
+  {
+    "name": "shanraisshan__claude-code-best-practice",
+    "path": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/repos/shanraisshan__claude-code-best-practice",
+    "commit": "d3560b123a31a0fb84ce6b7d41fe9bc0fec84d62",
+    "out": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/reversa/shanraisshan__claude-code-best-practice_refined",
+    "findings": 3622,
+    "contradictions": 2,
+    "patch_candidates": 3,
+    "highest_severity": "HIGH",
+    "ignore_policy": {
+      "honor_gitignore": true,
+      "source": "git_exclude_standard",
+      "ignored_files": 0,
+      "ignored_directories": 0
+    }
+  },
+  {
+    "name": "shareAI-lab__learn-claude-code",
+    "path": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/repos/shareAI-lab__learn-claude-code",
+    "commit": "a9cafe953aa714f9cb1171f217d96bd2734bbcc7",
+    "out": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/reversa/shareAI-lab__learn-claude-code_refined",
+    "findings": 7715,
+    "contradictions": 3,
+    "patch_candidates": 20,
+    "highest_severity": "HIGH",
+    "ignore_policy": {
+      "honor_gitignore": true,
+      "source": "git_exclude_standard",
+      "ignored_files": 0,
+      "ignored_directories": 0
+    }
+  },
+  {
+    "name": "thedotmack__claude-mem",
+    "path": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/repos/thedotmack__claude-mem",
+    "commit": "3fe0725a97e18b5edf3e61cde60e181ab2b6c997",
+    "out": "/home/richtofen/.android/repositories/tool-repos/claude-code-matrix-upstreams/2026-06-26/reversa/thedotmack__claude-mem_refined",
+    "findings": 11470,
+    "contradictions": 11,
+    "patch_candidates": 15,
+    "highest_severity": "HIGH",
+    "ignore_policy": {
+      "honor_gitignore": true,
+      "source": "git_exclude_standard",
+      "ignored_files": 0,
+      "ignored_directories": 0
+    }
+  }
+]

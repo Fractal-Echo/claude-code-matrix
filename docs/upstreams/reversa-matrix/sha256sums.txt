@@ -1,0 +1,4 @@
+a12c891f6c71cee38275ae1a8775eec83ab5de5781476ab5b8507c288e763f39  agentic-training-pack.jsonl
+02b0da51c29e6769e9ecc982f988a3898f185cead2a1c1e6e1372522ff8261e9  agentic-training-summary.md
+3a9f2e243f42e1c556c514202c85481ce02c3c41df2bfe81fc38ba77505fbf1b  agentic-training-labels.json
+d9d9e74b127a4c37b7da6223d453597d20f56f9da0fba070de2d46f29a19b94b  gpu-proof.txt

@@ -1,0 +1,23 @@
+{
+  "profile": "agentic_toolchain",
+  "policy_classes": {
+    "permissive": "MIT or equivalent selective adaptation with attribution.",
+    "notice_required": "Apache-2.0 or similar; preserve NOTICE when copying.",
+    "allowlist": "Repo-level license ambiguous; only explicitly licensed folders are importable.",
+    "blocked": "Reference-only; no code/doc copying.",
+    "unknown": "Manual review required."
+  },
+  "evidence_categories": [
+    "agent_instruction_surface",
+    "agent_skill_contracts",
+    "hook_lifecycle_policy",
+    "permission_safety_policy",
+    "memory_context_injection",
+    "provider_routing_surface",
+    "subagent_orchestration",
+    "worktree_isolation",
+    "mcp_plugin_surface",
+    "proprietary_source_risk",
+    "attribution_license_surface"
+  ]
+}
